@@ -1,8 +1,9 @@
 # About-me
-[<img=
-Hmm? Want to gossip my profile? I see... Well, I guess I have no choice. But beware: the moment you discover about me, the more in danger you will be.
-I'm a 3D Generalist currently in learning proccess. I have been 3 years into this field, and soon I will be the best, I will create the most shocking projects ever!
-Nevertheless, my knowledge covers even more! Though 3D is my main passion, video and image editing is as well! Tremble, you mortals, it's been almost ten years!
+<img src="https://telegra.ph/file/a497f73d6fc67b63ade19.jpg">
+**"Heh… so you've come, ignorant fool. You dared to venture into the abyss, seeking knowledge beyond mortal comprehension. But be warned! The more you learn about me, the deeper you’ll be entangled in the web of fate! The Organization may already be watching." **
+**I am Hououin Kyoma, an entity beyond time and space! …Or, if you must conform to society’s constraints, you may refer to me as a _3D Generalist_. My experiments in the realm of the third dimension have been ongoing for three years, yet my ultimate world-dominating masterpiece is still in the works. When it is complete… humanity will never be the same again!
+But wait—there’s more! My dominion extends beyond the realm of 3D! I wield the forbidden arts of video sorcery and image manipulation! For almost a decade, I have refined my craft, bending pixels to my will, defying reality itself! Tremble, mere mortals, for my skills are unparalleled!**
+
 ## Softwares
 * Maya
 * Blender
